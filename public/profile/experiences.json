@@ -1,0 +1,32 @@
+{
+    "experiences": [
+        {
+            "title": "Full-Stack Intern",
+            "subtitle": "Navodita Infotech",
+            
+            "workDescription": [
+                "Created a online chat application.",
+                "Created a real-time chat application with full-stack development, supporting multimedia messaging including text, images, videos, voice notes, and emojis.",
+                "Integrated socket-based communication for seamless interaction and optimized frontend-backend synchronization."
+            ],
+            "dateText": " Sep 2024-Oct 2024 "
+        },
+       
+        {
+            "title": "Achivements",
+            
+            
+            "workDescription": [
+                "\n - Successfully completed the challenge of contentstack for developers + launch. \n - Successfully completed two courses in leetcode with daily streak.\n - Cleared the Level 1 of the flipkart GRiD 5.0 – Software Development Challenge."
+            
+            
+                
+            ]
+            
+            
+            
+            
+        }
+        
+    ]
+}

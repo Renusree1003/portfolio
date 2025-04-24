@@ -1,0 +1,25 @@
+{
+    "education":[
+        {
+            "title": "Aug 2022 - July 2026",
+            "cardTitle": "B.Tech, Computer Science Engineering",
+            "cardSubtitle":"Lovely Professional University, Phagwara",
+            "cardDetailedText": "CGPA - 7.9",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "June 2020 - May 2022",
+            "cardTitle": "High School",
+            "cardSubtitle":"Narayana Junior College, Hyderabad",
+            "cardDetailedText": "Percentage - 95%"
+        },
+        {
+            "title": "June 2019 - April 2020",
+            "cardTitle": "Matriculation",
+            "cardSubtitle":"Sri Chaitanya Techno School, Ananthapur",
+            "cardDetailedText": "Percentage - 99%"
+        }
+    ]
+}

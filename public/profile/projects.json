@@ -1,0 +1,93 @@
+{
+    "projects" : [
+        {
+            
+            "title": "Online Chat application",
+            "bodyText": "- Created a real-time chat application with full-stack development\n -  Integrated socket-based communication for seamless interaction and optimized frontend-backend synchronizaion.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Renusree1003/mern-chat-application"
+                }
+                
+            ],
+            "tags" : [
+                "React",
+                
+                "JavaScript",
+                "Chat-app"
+            ]
+        },
+        {
+            
+            "title": "Mern Task management",
+            "bodyText": "- Developed a Task Management web application with secure OTP-based authentication and intuitive user interface for task scheduling and tracking.\n - Implemented features for real-time reminders, task status updates, and seamless CRUD operations.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/Caaring"
+                }
+               
+            ],
+            "tags" : [
+                "React",
+                "JavaScript",
+                "Task Management"
+            ]
+        },
+        {
+
+            "title": "E-Commerce",
+            "bodyText": "- Developed a full-stack Hardware E-commerce website enabling seamless user authentication, product categorization, and real-time search functionality.\n - Implemented dynamic cart management and secure payment workflow to enhance user experience.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                }
+            ],
+            "tags" : [
+                
+                "Node",
+                "ReactJs",
+                "MongoDB"
+                
+        
+            ]
+        },
+        {
+            "title": "Online Quiz Platform",
+            "bodyText": "- Designed and developed an interactive Online Quiz Platform tailored for children, featuring MCQ-based assessments with user authentication.\n - Integrated timed questions, instructional interface, and automated result generation with performance feedback.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Renusree1003/online-quiz-platform"
+                }
+            ],
+            "tags" : [
+                "ReactJs",
+                "JavaScript",
+                "MongoDB"
+                
+            ]
+        },
+        {
+            "title": "Event Management System",
+            "bodyText": "- The Event Management System is a web-based application designed to streamline the organization and management of events. \n - It facilitates efficient coordination between administrators and users, ensuring seamless event planning and execution.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Renusree1003/Event-Management-System"
+                }
+            ],
+            "tags" : [
+                "SQL",
+                "React",
+                "JavaScript"
+                
+            ]
+        }
+        
+       
+        
+    ]
+}
