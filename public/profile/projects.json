@@ -85,6 +85,22 @@
                 "JavaScript"
                 
             ]
+        },
+        {
+            "title": "Event Management System",
+            "bodyText": "- The Event Management System is a web-based application designed to streamline the organization and management of events. \n - It facilitates efficient coordination between administrators and users, ensuring seamless event planning and execution.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/Renusree1003/Event-Management-System"
+                }
+            ],
+            "tags" : [
+                "SQL",
+                "React",
+                "JavaScript"
+                
+            ]
         }
         
        
